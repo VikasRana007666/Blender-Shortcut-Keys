@@ -1,16 +1,16 @@
 # Blender-Shortcut-Keys
 Here is a list of some common shortcut keys for working with Grease Pencil in Blender:
 
--- Shift + A: Add a new drawing
--- Shift + S: Save the current drawing
--- Shift + O: Toggle Onion Skinning
--- Shift + X: Clear all drawings
--- Shift + D: Duplicate the current drawing
--- Shift + LMB: Select multiple strokes
--- Shift + C: Clear the selection
--- Ctrl + Z: Undo
--- Ctrl + Shift + Z: Redo
--- Ctrl + S: Save the blend file
+- Shift + A: Add a new drawing
+- Shift + S: Save the current drawing
+- Shift + O: Toggle Onion Skinning
+- Shift + X: Clear all drawings
+- Shift + D: Duplicate the current drawing
+- Shift + LMB: Select multiple strokes
+- Shift + C: Clear the selection
+- Ctrl + Z: Undo
+- Ctrl + Shift + Z: Redo
+- Ctrl + S: Save the blend file
 
 To move from the 2D View to the 3D View in Blender using a shortcut, you can press the Tab key. This will toggle between Edit Mode and Object Mode in the 3D View.
 
